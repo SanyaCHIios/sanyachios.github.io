@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "2M8S3X69R8.com.justcoded.ticket",
-            "paths": ["/sanyachiios.github.io/", "/"]
+            "paths": ["/sanyachiios.github.io/*", "/", "*"]
         }]
     }
 }
